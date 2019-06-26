@@ -16,6 +16,7 @@
     "@types/react": "16.3.16",
     "@types/react-dom": "16.0.5",
     "tslib": "1.9.3",
-    "typescript": "~3.3.3"
+    "typescript": "~3.3.3",
+    "office-ui-fabric-react": "7.5.2"
   }
 }
